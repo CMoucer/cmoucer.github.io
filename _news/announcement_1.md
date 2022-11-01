@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-10-31 
 inline: true
 ---
 
-A simple inline announcement.
+Registration for [PEP talks](https://performanceestimation.github.io/PEP-talks/february_2023/index.html) opens!
