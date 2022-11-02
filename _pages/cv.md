@@ -13,7 +13,7 @@ You can find my CV in pdf format [here]({{ site.baseurl }}/assets/pdf/cv_phd.pdf
 + Since 2021: PhD under the supervision of [Francis Bach](https://www.di.ens.fr/~fbach/) and [Adrien Taylor](https://adrientaylor.github.io) in the [SIERRA team](https://www.di.ens.fr/sierra/index.php)
 + 2020-2021: Graduated from [Ecole des Ponts](http://ecoledesponts.fr) (Marne-la-Vallée, France)
   + [Master on public policies for sustainable development](http://www.enpc.fr/mastere-specialise-papdd-politiques-actions-publiques-developpement-durable)
-  + *Master thesis at Inspection Générale des Finances: ["Accélérer le rebond économique des territoires"](https://www.gouvernement.fr/upload/media/default/0001/01/2021_06_m-006-03_2021-rapport_rebond_eco_territoires.pdf), supervised by Paul-Armand Veillon*
+  + *Internship at Inspection Générale des Finances: ["Accélérer le rebond économique des territoires"](https://www.gouvernement.fr/upload/media/default/0001/01/2021_06_m-006-03_2021-rapport_rebond_eco_territoires.pdf), supervised by Paul-Armand Veillon*
 + 2019-2020: Graduated from [Ecole Normale Supérieure](http://ens-paris-saclay.fr) (Saclay, France)
   + [Master in Maths, Vision and Learning](https://www.master-mva.com)
   + *Master thesis at INRIA Paris on "Interplay between optimization and integration methods", supervised by Francis Bach and Adrien Taylor*
