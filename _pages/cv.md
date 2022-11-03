@@ -7,7 +7,7 @@ nav_order: 4
 cv_pdf: cv_phd.pdf
 ---
 
-You can find my CV in pdf format [here]({{ site.baseurl }}/assets/pdf/cv_phd.pdf).
+You can find my CV in pdf format [here]({{ site.url }}/assets/pdf/cv_phd.pdf).
 
 **Short Curriculum Vitae**
 + Since 2021: PhD under the supervision of [Francis Bach](https://www.di.ens.fr/~fbach/) and [Adrien Taylor](https://adrientaylor.github.io) in the [SIERRA team](https://www.di.ens.fr/sierra/index.php)
@@ -26,8 +26,8 @@ Since 2019, I am an [Ingénieure des Ponts, Eaux et Forêts](https://ecoledespon
 **Teaching and outreach**
 * 02/2023: I co-organize a workshop on Performance Estimation Problems (PEP) with [Sébastien Colla](https://perso.uclouvain.be/sebastien.colla/) and Baptiste Goujaud. Resgister [here](https://performanceestimation.github.io/PEP-talks/february_2023/index.html) for PEP talks!
 + 10/2022: I co-organized the [RJMI](https://filles-et-maths.fr/rjmi/) Inria Paris with [Bertille Follain](https://bertillefollain.netlify.app), a two-day program to encourage high school girls to study mathematics
-+ 2022: Teaching assistant for [Introduction to Optimization](http://gede.enpc.fr/Programme/fiche.aspx?param=M:1OPTI) at Ecole des Ponts, ([Frédéric Meunier](https://cermics.enpc.fr/~meuniefr/))
-+ 2021: Teaching assistant for [Introduction to Optimization](http://gede.enpc.fr/Programme/fiche.aspx?param=M:1OPTI) at Ecole des Ponts, ([Frédéric Meunier](https://cermics.enpc.fr/~meuniefr/))
++ 2022: As a teaching assistant, [Introduction to Optimization](http://gede.enpc.fr/Programme/fiche.aspx?param=M:1OPTI) at Ecole des Ponts, ([Frédéric Meunier](https://cermics.enpc.fr/~meuniefr/))
++ 2021: As a teaching assistant, [Introduction to Optimization](http://gede.enpc.fr/Programme/fiche.aspx?param=M:1OPTI) at Ecole des Ponts, ([Frédéric Meunier](https://cermics.enpc.fr/~meuniefr/))
 
 **Miscellaneous ---**
 I am a regular climber, mostly indoors. 

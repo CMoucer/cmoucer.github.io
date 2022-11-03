@@ -25,6 +25,6 @@ My research focuses on first-order (convex) optimization methods for machine lea
 
 Prior to that, I graduated from Ecole Polytechnique (X2016) and got a master degree in Maths, Vision and Learning in 2020 ([master MVA](https://www.master-mva.com)) from Ecole Normale Supérieure and Ecole des Ponts.
 
-You can find a list of my publications and codes [here](/cmoucer/publications/).
+You can find a list of my publications and codes [here](/publications/).
 
 
