@@ -24,7 +24,7 @@ You can find my CV in pdf format [here]({{ site.url }}/assets/pdf/cv_phd.pdf).
 Since 2019, I am an [Ingénieure des Ponts, Eaux et Forêts](https://ecoledesponts.fr/stub-100).
 
 **Teaching and outreach**
-* 02/2023: I co-organize a workshop on Performance Estimation Problems (PEP) with [Sébastien Colla](https://perso.uclouvain.be/sebastien.colla/) and Baptiste Goujaud. Resgister [here](https://performanceestimation.github.io/PEP-talks/february_2023/index.html) for PEP talks!
+* 02/2023: I co-organized the [PEP talks](https://performanceestimation.github.io/PEP-talks/february_2023/index.html) a workshop on Performance Estimation Problems (PEP) with [Sébastien Colla](https://perso.uclouvain.be/sebastien.colla/) and Baptiste Goujaud. Resgister [here](https://performanceestimation.github.io/PEP-talks/february_2023/index.html)!
 + 10/2022: I co-organized the [RJMI](https://filles-et-maths.fr/rjmi/) Inria Paris with [Bertille Follain](https://bertillefollain.netlify.app), a two-day program to encourage high school girls to study mathematics
 + 2022: As a teaching assistant, [Introduction to Optimization](http://gede.enpc.fr/Programme/fiche.aspx?param=M:1OPTI) at Ecole des Ponts, ([Frédéric Meunier](https://cermics.enpc.fr/~meuniefr/))
 + 2021: As a teaching assistant, [Introduction to Optimization](http://gede.enpc.fr/Programme/fiche.aspx?param=M:1OPTI) at Ecole des Ponts, ([Frédéric Meunier](https://cermics.enpc.fr/~meuniefr/))

@@ -3,8 +3,8 @@ layout: page
 permalink: /publications/
 title: publications
 description: 
-years: [2022, 2021]
-abbr: [preprint]
+years: [2023, 2022, 2021]
+abbr: [preprint, journal]
 nav: true
 nav_order: 1
 ---
@@ -25,6 +25,5 @@ nav_order: 1
 {% endfor %}
 
 </div>
-
 
 
