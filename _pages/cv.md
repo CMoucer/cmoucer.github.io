@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: cv_phd.pdf
+cv_pdf: cv.pdf
 ---
 
 You can find my CV in pdf format [here]({{ site.url }}/assets/pdf/cv.pdf).
