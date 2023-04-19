@@ -7,7 +7,7 @@ nav_order: 4
 cv_pdf: cv_phd.pdf
 ---
 
-You can find my CV in pdf format [here]({{ site.url }}/assets/pdf/cv_phd.pdf).
+You can find my CV in pdf format [here]({{ site.url }}/assets/pdf/cv.pdf).
 
 **Short Curriculum Vitae**
 + Since 2021: PhD under the supervision of [Francis Bach](https://www.di.ens.fr/~fbach/) and [Adrien Taylor](https://adrientaylor.github.io) in the [SIERRA team](https://www.di.ens.fr/sierra/index.php)
