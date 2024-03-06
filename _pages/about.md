@@ -19,9 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a second year PhD student at Inria Paris, under the supervision of [Adrien Taylor](https://adrientaylor.github.io) and [Francis Bach](https://www.di.ens.fr/~fbach/).
+I am a third year PhD student at Inria Paris, under the supervision of [Adrien Taylor](https://adrientaylor.github.io) and [Francis Bach](https://www.di.ens.fr/~fbach/).
 
-My research focuses on first-order convex optimization methods for machine learning problems (recently on coordinate descent).
+My research focuses on first-order convex optimization methods for (possibly sparse) machine learning problems.
 Previously, I have been working on continuous-time models related to these methods, using computer-aided techniques for worst-case analysis.
 
 Prior to that, I graduated from Ecole Polytechnique (X2016) and got a master degree in Maths, Vision and Learning in 2020 ([master MVA](https://www.master-mva.com)) from Ecole Normale Supérieure and Ecole des Ponts.

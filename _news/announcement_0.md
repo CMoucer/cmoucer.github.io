@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-02-14 
+date: 2023-08-24 
 inline: true
 ---
 
-PEP Talks took place à Louvain-la-Neuve, thanks to all the participants!
+Presenting PEPit and continuous-time PEP at EUROPT2023.
